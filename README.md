@@ -1,5 +1,5 @@
 ## Bem vindo ao meu Github
-💻 Atualmente trabalho como desenvolvedor Full-stack utilizando PHP, Laravel, Symfony, JavaScript, GraphQL MySQL, Postgres, Oracle e AngularJS.
+💻 Atualmente trabalho como desenvolvedor Full-stack utilizando PHP, Laravel, Symfony, JavaScript, GraphQL, MySQL, Postgres, Oracle e AngularJS.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
