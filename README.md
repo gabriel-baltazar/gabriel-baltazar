@@ -1,25 +1,78 @@
-## Bem vindo ao meu Github
-💻 Atualmente trabalho como desenvolvedor Full-stack utilizando PHP, Laravel, Symfony, JavaScript, GraphQL, MySQL, Postgres, Oracle e AngularJS.
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align="center" alt="CakePHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cakephp/cakephp-plain-wordmark.svg" />
-  <img align="center" alt="VueJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="AngularJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-plain-wordmark.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Postgres" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" />
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/gabriel-baltazar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# 👋 Hi, I'm Gabriel Baltazar
+
+🇧🇷 Brazilian Software Engineer currently based in Australia 🇦🇺  
+💻 Full-stack developer with strong backend focus  
+🎯 Passionate about building scalable systems and solving real-world problems  
+
+---
+
+## 🚀 About Me
+
+I'm a software engineer with +4 years of experience building web applications and APIs using modern architectures and best practices.
+
+I have worked on ERP systems, integrations with external services, payment systems, and scalable backend solutions.
+
+Currently, I’m focused on:
+- Backend engineering (Laravel & Symfony)
+- API design (REST & GraphQL)
+- Clean Architecture & DDD
+- Cloud & scalable systems
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
+- PHP (Laravel, Symfony, CakePHP)
+- Node.js (NestJS, Express)
+
+### Frontend
+- JavaScript / TypeScript
+- Angular, Vue, React
+
+### Databases
+- MySQL
+- PostgreSQL
+- Oracle
+- MongoDB
+
+### DevOps & Tools
+- Docker
+- Nginx
+- AWS (S3, basic infra)
+- Linux
+
+---
+
+## 💡 What I Build
+
+- Scalable APIs (REST & GraphQL)
+- ERP systems
+- Payment integrations
+- Microservices & distributed systems
+- Automation tools
+- Affiliate & marketplace platforms
+
+---
+
+## 📈 Current Focus
+
+- Improving system design skills
+- Preparing for global opportunities (Big Tech / international roles)
+- Building side projects (affiliate marketplace, SaaS tools)
+
+---
+
+## 🌍 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-baltazar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I’m currently transitioning my career internationally while building real-world products and continuously improving my English and system design skills.
