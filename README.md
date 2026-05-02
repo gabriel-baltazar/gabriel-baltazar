@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer with +4 years of experience building web applications and APIs using modern architectures and best practices.
+I'm a software engineer with +5 years of experience building web applications and APIs using modern architectures and best practices.
 
 I have worked on ERP systems, integrations with external services, payment systems, and scalable backend solutions.
 
@@ -25,6 +25,7 @@ Currently, I’m focused on:
 ### Backend
 - PHP (Laravel, Symfony, CakePHP)
 - Node.js (NestJS, Express)
+- Go
 
 ### Frontend
 - JavaScript / TypeScript
