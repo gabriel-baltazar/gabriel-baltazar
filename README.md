@@ -71,9 +71,3 @@ Currently, I’m focused on:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-I’m currently transitioning my career internationally while building real-world products and continuously improving my English and system design skills.
